@@ -1,0 +1,43 @@
+body {
+    background-color: #deedf0;
+    font-family: monospace;
+  }
+  
+  h1 {
+    color: black;
+    font-size: 30px;
+    line-height: 28px;
+    margin: 0;
+    padding: 15px;
+    text-shadow: 2px 2px 2px grey;
+  }
+  
+  ul {
+    padding: 0;
+    margin: 0 0 10px;
+  }
+  
+  li {
+    font-size: 16px;
+    line-height: 1;
+    list-style: none;
+  }
+  
+  img {
+    margin: 13px;
+  }
+  
+  .temperature {
+    font-size: 50px;
+  }
+  
+  .weather-app {
+    border: 1px solid grey;
+    box-shadow: 2px 2px 2px 2px lightblue;
+    border-radius: 15px;
+    margin: 25px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-image: url(https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-2805.jpg?w=1380&t=st=1689412846~exp=1689413446~hmac=2160e0eb2a2a7909eaa43cd2abedabb059985178b2eba6b9bc8214bad97f8b6a);
+    background-size: cover;
+  }
